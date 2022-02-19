@@ -3,7 +3,6 @@
 
 [webservers]
 172.31.29.127 ansible_ssh_user='ec2-user'
-clear
 172.31.25.206 ansible_ssh_user='ec2-user'
 
 [db]
