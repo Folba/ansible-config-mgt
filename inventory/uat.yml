@@ -1,1 +1,4 @@
-# private IP webserver
+[uat-webservers]
+3.239.241.77 ansible_ssh_user='ec2-user' 
+
+172.31.12.111 ansible_ssh_user='ec2-user' 
